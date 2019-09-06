@@ -1,4 +1,5 @@
 # run-auto [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falbert-hejy%2Frun-auto.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falbert-hejy%2Frun-auto?ref=badge_shield)
 
 [travis-image]: https://img.shields.io/travis/feross/run-auto/master.svg
 [travis-url]: https://travis-ci.org/feross/run-auto
@@ -128,3 +129,6 @@ Works great in the browser with [browserify](http://browserify.org/)!
 MIT. Copyright (c) [Feross Aboukhadijeh](http://feross.org).
 
 Image credit: Wizard Hat designed by Andrew Fortnum
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falbert-hejy%2Frun-auto.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falbert-hejy%2Frun-auto?ref=badge_large)
